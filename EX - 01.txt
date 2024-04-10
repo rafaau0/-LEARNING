@@ -1,0 +1,33 @@
+algoritimo "sem nome"
+
+var
+   nota: inteiro
+
+inicio
+  escreva("Digite sua nota aqui: ")
+  leia(nota)
+  se nota <= 49 entao
+    escreva("INSUFICIENTE")  
+  senao
+    se (nota >=50) e (nota <= 64) entao
+      escreva("REGULAR")
+    senao
+      se (nota >= 65) e (nota <= 84) entao 
+        escreva("BOM")
+      senao
+        se (nota >= 85) e (nota <= 100) entao
+          escreva("OTIMO")
+        senao
+          se (nota < 0 ) ou (nota > 100) entao
+            escreval("======ERROR!======")
+            escreval("SOMENTE NUMERO DE 0 A 100") 
+          fimse
+        fimse
+      fimse 
+    fimse  
+  fimse
+     
+
+
+
+fimalgoritimo 
