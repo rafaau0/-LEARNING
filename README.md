@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaau0
 - 👀 I am interested in developing my programming skills.
-- 🌱 I'm currently learning HTML and CCS.
+- 🌱 Cursando Sistema da Informação
 - 💞️ I want to collaborate on a project with html and css.
 - 📫 How to reach me - rafaau0@gmail.com
 
