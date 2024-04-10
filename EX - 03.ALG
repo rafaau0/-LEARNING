@@ -1,11 +1,8 @@
 Algoritmo "ex - 03"
 
 
-
 Var
    n1, resto: real
-
-
 
 Inicio
    escreva("Digite um numero qualquer: ")
@@ -20,7 +17,4 @@ Inicio
          escreva("Numero fora do intervalo")
       fimse
    fimse
-
-
-
 Fimalgoritmo
